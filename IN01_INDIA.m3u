@@ -1,12 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="*** INDIA - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/bopCE0h.png" group-title="INDIA",*** INDIA - github.com/Free-IPTV
 http://
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",7S Music
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="AajTak HD" tvg-name="" tvg-logo="" group-title="INDIA",AajTak HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",A News Jatt Tv
+http://bit.ly/newstvjatt2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV
 https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ACV News
